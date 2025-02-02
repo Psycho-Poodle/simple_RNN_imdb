@@ -13,7 +13,7 @@ reversed_word_index = {value : key for key, value in word_index.items()}
 
 
 # Load the pre-trained model with Relu Activation function
-model = load_model('Simple_RNN_Imdb/simple_rnn_model.h5')
+model = load_model('simple_rnn_model.h5')
 
 
 # Step 2: Helper Functions
