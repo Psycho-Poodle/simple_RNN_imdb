@@ -25,7 +25,7 @@ def preprocess_text(text):
     
     words = text.lower().split()
     encoded_review = [word_index.get(word,2)+3 for word in words ]
-    padded_review = sequence.pad_sequence ([encoded_review], maxlen = 500)
+    padded_review = sequence.pad_sequences([encoded_review], maxlen = 500)
     return padded_review
 
 ### Step3: Prediction Function
