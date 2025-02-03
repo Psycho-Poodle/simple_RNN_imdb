@@ -5,16 +5,16 @@ This project is a simple web application that uses a pre-trained Recurrent Neura
 ## Features
 - **Sentiment Analysis**: Classifies movie reviews as positive or negative.
 - **User-Friendly Interface**: Built with Streamlit for easy interaction.
-- **Pre-trained Model**: Uses a pre-trained RNN model for accurate predictions.
+- **Pre-trained Model**: Uses a pre-trained(I have trained the model. The training file is in the same repo) RNN model for accurate predictions.
 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/imdb-sentiment-analysis.git
+   git clone https://github.com/Psycho-Poodle/simple_RNN_imdb
 
 2. Navigate to the project directory:
     ```bash
-    cd imdb-sentiment-analysis
+    cd simple_RNN_imdb
 
 3. Install the required dependencies:
     ```bash
