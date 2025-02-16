@@ -1,6 +1,6 @@
 # IMDB Movie Review Sentiment Analysis
 
-This project is a simple web application that uses a pre-trained Recurrent Neural Network (RNN) model to classify movie reviews from the IMDb dataset as either positive or negative. The application is built using TensorFlow for the machine learning model and Streamlit for the web interface.
+This Project is a simple web application that uses a pre-trained Recurrent Neural Network (RNN) model to classify movie reviews from the IMDb dataset as either positive or negative. The application is built using TensorFlow for the machine learning model and Streamlit for the web interface.
 
 ## Features
 - **Sentiment Analysis**: Classifies movie reviews as positive or negative.
